@@ -1,0 +1,296 @@
+This is e-pTeX, Version 3.14159265-p3.8.0-180226-2.6 (utf8.euc) (TeX Live 2018) (preloaded format=platex 2018.12.18)  13 FEB 2019 14:12
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**paper
+(./paper.tex
+pLaTeX2e <2018-04-01>+1 (based on LaTeX2e <2018-04-01> patch level 2)
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(./deime.cls
+Document Class: deime 
+\@JQ=\dimen118
+\@Q=\dimen119
+\@EM=\dimen120
+\c@@paper=\count83
+\@authorlist=\toks15
+\@authorcnt=\count84
+\@alcnt=\count85
+\p@alcnt=\count86
+\@totalnumber=\count87
+\authornamesep=\dimen121
+\tn@dn=\count88
+\@spcnt=\count89
+\alignorder=\count90
+\totalnumberm@ne=\count91
+\@authorcntp@ne=\count92
+\chk@alcnt=\count93
+\chk@p@alcnt=\count94
+\eabstractbox=\box42
+\ekeywordbox=\box43
+\Pauthorsep=\dimen122
+\c@section=\count95
+\c@subsection=\count96
+\c@subsubsection=\count97
+\c@paragraph=\count98
+\c@subparagraph=\count99
+\@hlskip=\skip41
+\verbatimleftmargin=\dimen123
+\verbatimbaselineskip=\dimen124
+\c@figure=\count100
+\c@table=\count101
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\@tempboxb=\box44
+\capwidth=\dimen125
+\ecapwidth=\dimen126
+\symmincho=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY1/mc/m/n --> JY1/gt/m/n on input line 2500.
+LaTeX Font Info:    Redeclaring symbol font `mincho' on input line 2558.
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `normal'
+(Font)                  JY1/mc/m/n --> JY1/mc/m/n on input line 2558.
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY1/gt/m/n --> JY1/mc/m/n on input line 2558.
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY1/mc/m/n --> JY1/gt/m/n on input line 2558.
+LaTeX Font Info:    Redeclaring math alphabet \mathgt on input line 2558.
+LaTeX Font Info:    Overwriting math alphabet `\mathgt' in version `normal'
+(Font)                  JY1/gt/m/n --> JY1/gt/m/n on input line 2558.
+LaTeX Font Info:    Overwriting math alphabet `\mathgt' in version `bold'
+(Font)                  JY1/gt/m/n --> JY1/gt/m/n on input line 2558.
+LaTeX Info: Redefining \mc on input line 2566.
+LaTeX Info: Redefining \gt on input line 2567.
+\bibindent=\dimen127
+\c@profile=\count102
+\mathindent=\dimen128
+\@minsofar=\count103
+\@min=\count104
+\@cite@temp=\count105
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvipdfmx.def on input line 99.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+File: dvipdfmx.def 2017/06/24 v5.0g Graphics/color driver for dvipdfmx
+))
+\Gin@req@height=\dimen129
+\Gin@req@width=\dimen130
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen131
+\captionmargin@=\dimen132
+\captionwidth=\dimen133
+\caption@tempdima=\dimen134
+\caption@indent=\dimen135
+\caption@parindent=\dimen136
+\caption@hangindent=\dimen137
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2->\vskip \abovecaptionski
+p \setbox \@tempboxa \hbox {#1\hskip 1zw\shortstack [l]{#2}}\@tempdima \ht \@te
+mpboxa \advance \@tempdima \dp \@tempboxa \setbox \@tempboxb \hbox {#1\hskip 1z
+w}\ifdim \@tempdima > \baselineskip \ifdim \wd \@tempboxa > \capwidth \hfil \pa
+rbox [t]{\capwidth }{\hangindent \wd \@tempboxb #1\hskip 1zw #2}\vskip 2\@Q \el
+se \hfil \parbox [t]{\wd \@tempboxa }{\hangindent \wd \@tempboxb #1\hskip 1zw #
+2}\vskip 2\@Q \fi \else \ifdim \wd \@tempboxa > \capwidth \hfil \parbox [t]{\ca
+pwidth }{\hangindent \wd \@tempboxb #1\hskip 1zw #2}\vskip 2\@Q \else \setbox \
+@tempboxb \hbox {#2}\ifdim \wd \@tempboxb < 4.5zw \hbox to\hsize {\hfil #1\hski
+p 1zw\kintou {5zw}{#2}\hfil }\else \hbox to\hsize {\hfil \box \@tempboxa \hfil 
+}\fi \fi \fi .
+\c@ContinuedFloat=\count106
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip44
+\enit@outerparindent=\dimen138
+\enit@toks=\toks17
+\enit@inbox=\box45
+\enitdp@description=\count107
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks18
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+\enitdp@todolist=\count108
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/pifont.sty
+Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
+
+(I search kanjifont definition file: . . ) (I search font definition file: . .
+. . . . . )
+LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+(I search kanjifont definition file: . . ) (I search font definition file: . .
+. . . . . )
+LaTeX Font Info:    Try loading font information for U+psy on input line 64.
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+(./paper.aux)
+\openout1 = `paper.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: Incompatible package detected (regarding \@caption).
+(caption)             \@caption = \long macro:#1[#2]#3->\par \begingroup \@parb
+oxrestore \if@minipage \@setminipage \fi \small \@makecaption {\csname fnum@#1\
+endcsname }{\ignorespaces #3}\par \endgroup .
+
+
+Package caption Warning: \caption will not be redefined since it's already
+(caption)                redefined by a document class or package which is
+(caption)                unknown to the caption package.
+See the caption package documentation for explanation.
+
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 47.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 47.
+LaTeX Font Info:    Try loading font information for U+msa on input line 77.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 77.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Calculating math sizes for size <10.5> on input line 77.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <10.5> not available
+(Font)              size <10.95> substituted on input line 77.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <10.5> not available
+(Font)              size <10.95> substituted on input line 77.
+
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10.95> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 79.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10.95> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 79.
+[1
+
+
+]
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <9> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 179.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <9> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 179.
+ [2]
+File: resource/structure.png Graphic file (type bmp)
+<resource/structure.png>
+
+Overfull \hbox (8.65994pt too wide) in paragraph at lines 274--275
+ [][] 
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 282.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 282.
+ [3]
+File: resource/text_msg/oracle_k-fold5.eps Graphic file (type eps)
+<resource/text_msg/oracle_k-fold5.eps>
+File: resource/text_msg/current_k-fold5.eps Graphic file (type eps)
+<resource/text_msg/current_k-fold5.eps>
+File: resource/text_msg/pos_coverage.eps Graphic file (type eps)
+<resource/text_msg/pos_coverage.eps>
+File: resource/text_msg/r_precision.eps Graphic file (type eps)
+<resource/text_msg/r_precision.eps>
+File: resource/text_msg/recent_prop.eps Graphic file (type eps)
+<resource/text_msg/recent_prop.eps>
+File: resource/imdb/oracle_k-fold5.eps Graphic file (type eps)
+<resource/imdb/oracle_k-fold5.eps>
+File: resource/imdb/current_k-fold5.eps Graphic file (type eps)
+<resource/imdb/current_k-fold5.eps>
+File: resource/imdb/pos_coverage.eps Graphic file (type eps)
+<resource/imdb/pos_coverage.eps>
+File: resource/imdb/r_precision.eps Graphic file (type eps)
+<resource/imdb/r_precision.eps>
+File: resource/imdb/recent_prop.eps Graphic file (type eps)
+<resource/imdb/recent_prop.eps>
+ [4] [5]
+
+LaTeX Warning: Text page 6 contains only floats.
+
+[6]
+LaTeX Font Info:    Font shape `JT1/gt/m/it' in size <8> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 607.
+LaTeX Font Info:    Font shape `JY1/gt/m/it' in size <8> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 607.
+ [7]
+
+LaTeX Warning: Text page 8 contains only floats.
+
+[8] (./paper.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.45pt have occurred.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2760 strings out of 493281
+ 40905 string characters out of 6145040
+ 122463 words of memory out of 5000000
+ 6645 multiletter control sequences out of 15000+600000
+ 25981 words of font info for 103 fonts, out of 8000000 for 9000
+ 929 hyphenation exceptions out of 8191
+ 36i,5n,38p,198b,323s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on paper.dvi (8 pages, 39460 bytes).
